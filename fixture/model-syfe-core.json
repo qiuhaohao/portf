@@ -1,0 +1,50 @@
+{
+  "assets": {
+    "TLT": {
+      "weight": 0.1450
+    },
+    "QQQ": {
+      "weight": 0.1262
+    },
+    "RSP": {
+      "weight": 0.1149
+    },
+    "VOO": {
+      "weight": 0.0871,
+      "equivalents": ["CSPX"]
+    },
+    "EFA": {
+      "weight": 0.0801
+    },
+    "MCHI": {
+      "weight": 0.0752
+    },
+    "XLP": {
+      "weight": 0.0637
+    },
+    "GLD": {
+      "weight": 0.0582
+    },
+    "IEF": {
+      "weight": 0.0590
+    },
+    "AGG": {
+      "weight": 0.0513
+    },
+    "KWEB": {
+      "weight": 0.0402
+    },
+    "XLV": {
+      "weight": 0.0314
+    },
+    "IEMG": {
+      "weight": 0.0261
+    },
+    "XLU": {
+      "weight": 0.0265
+    },
+    "XLK": {
+      "weight": 0.0153
+    }
+  }
+}
